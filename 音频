@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--音频-->
+    <audio src="音频URL"></audio>
+    <!--controls 显示音频播放面板-->
+    <audio src="音频" controls></audio>
+    <!--loop循环播放-->
+    <audio src="音频" loop></audio>
+    <!--autoplay自动播放-->
+    <audio src="音频" autoplay></audio>
+    <!--视频-->
+    <video src="视频URL"></video>
+    <!--controls 显示视频播放面板-->
+    <video src="视频URL"controls></video>
+    <!--loop 循环播放-->
+    <video src="视频URL" loop></video>
+    <!--autoplay自动播放-->
+    <video src="视频URL"autoplay></video>
+</body>
+</html>
