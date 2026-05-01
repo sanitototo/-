@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./u=3060151635,1457597315&fm=253&fmt=auto&app=120&f=JPEG.webp" alt="">
+    <img src="./u=3060151635,1457597315&fm=253&fmt=auto&app=120&f=JPEG.webpu" alt="图片无法显示时替换文字">
+    <img src="./u=3060151635,1457597315&fm=253&fmt=auto&app=120&f=JPEG.webp" title="
+    一只小狗">
+    <img src="./u=3060151635,1457597315&fm=253&fmt=auto&app=120&f=JPEG.webp" height="700" width="500">
+</body>
+</html>
